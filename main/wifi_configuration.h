@@ -17,7 +17,7 @@ static struct {
 } wifi_list[] __attribute__((unused)) = {
      {.ssid = "Xiaomi_F4D1", .password = "LinuxisUbuntu18"},
     // Add your WAP like this:
-    // {.ssid = "your ssid", .password = "your password"},
+     {.ssid = "xwx", .password = "520xwx1314"},
 };
 
 #define WIFI_LIST_SIZE (sizeof(wifi_list) / sizeof(wifi_list[0]))
